@@ -10,5 +10,3 @@ Cross Correlation validation.ipynb demonstrates the validation of the cross-corr
 UHFLI Cross Correlation code.ipynb is the main cross-correlation code which can now be repeated many times. Many more of the parameters here changed for eg. no. of repeats, signal amplitude, input range, etc. See the wiring example required for this: https://blogs.zhinst.com/jithesh/files/2020/05/figure5-e1589970237381.png
 
 Of course, you can use any kind of wiring setup you wish and change the code as you please. 
-
-You can explore 
