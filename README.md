@@ -1,7 +1,7 @@
 # Zurich Instruments: Cross Correlation
 # Author: Jithesh Srinivas
 # https://blogs.zhinst.com/jithesh/2020/05/19/how-to-reduce-the-noise-floor-and-improve-the-snr-with-cross-correlation-techniques/
-## ** 26/05/2020 The Cross-Correlation code for the two MFLIs is being fixed and will be uploaded soon ##
+## ** 30/05/2020 The Cross-Correlation code for the two MFLIs is uploaded, but still to be completely tested ##
 
 Manual Cross Correlation code in Python Notebook (.ipynb) format. The code will do all the work for you, and all you have to do is set your device name and follow the wiring setup; or you can do your own experiment! This is specifically for the UHFLI and MFLI devices (UHF-QA can work too).
 
